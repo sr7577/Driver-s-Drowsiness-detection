@@ -1,0 +1,9 @@
+
+flask==2.3.2
+gunicorn==21.2.0
+opencv-python==4.9.0.80
+dlib-bin
+scipy==1.11.4
+imutils==0.5.4
+pygame==2.5.2
+scikit-learn==1.4.2
